@@ -9,6 +9,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 100px 0 100px;
 }
 
 .bgimg-2 {
@@ -21,4 +22,13 @@
   padding: 200px 0 400px;
 }
 
+.bgimg-3 {
+  background-image: url("img-placeholder.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+}
 #map { height: 500px;}
